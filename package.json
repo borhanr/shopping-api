@@ -1,0 +1,42 @@
+{
+  "name": "shopping-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start:prod": "node src/server.js",
+    "start:dev": "nodemon src/server.js",
+    "start": "npm run seed && npm run start:prod",
+    "seed": "node src/database/seed",
+    "build:env:local": "cp env.local .env",
+    "build:env:prod": "cp env.production .env",
+    "build:docker": "docker-compose up -d",
+    "build": "npm run build:env:prod && npm run build:docker"
+  },
+  "keywords": [],
+  "author": "Borhan Rezaei",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "compression": "^1.7.4",
+    "connect-mongo": "^4.6.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-session": "^1.17.2",
+    "express-validation": "^4.1.0",
+    "helmet": "^5.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.4",
+    "swagger-autogen": "^2.21.1",
+    "xss-clean": "^0.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

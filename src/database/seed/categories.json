@@ -1,0 +1,217 @@
+[
+  {
+    "_id": "626f8ba2030cb74c7fb91e40",
+    "name": "Arts & Crafts",
+    "parentId": null
+  },
+  {
+    "_id": "626f8bf3030cb74c7fb91e41",
+    "name": "Baby",
+    "parentId": null
+  },
+  {
+    "_id": "626f8bfc030cb74c7fb91e42",
+    "name": "Beauty & Personal Care",
+    "parentId": null
+  },
+  {
+    "_id": "626f8c04030cb74c7fb91e43",
+    "name": "Music, CDs & Vinyl",
+    "parentId": null
+  },
+  {
+    "_id": "626f8c35030cb74c7fb91e44",
+    "name": "Electronics",
+    "parentId": null
+  },
+  {
+    "_id": "626f8c3d030cb74c7fb91e45",
+    "name": "Health & Household",
+    "parentId": null
+  },
+  {
+    "_id": "626f8c45030cb74c7fb91e46",
+    "name": "Sports & Outdoors",
+    "parentId": null
+  },
+  {
+    "_id": "626f8c7e030cb74c7fb91e47",
+    "name": "Toys & Games",
+    "parentId": null
+  },
+  {
+    "_id": "626f8c85030cb74c7fb91e48",
+    "name": "Video Games",
+    "parentId": null
+  },
+  {
+    "_id": "626f8c8c030cb74c7fb91e49",
+    "name": "Industrial & Scientific",
+    "parentId": null
+  },
+  {
+    "_id": "626f91be030cb74c7fb91e52",
+    "name": "Fabric",
+    "parentId": "626f8ba2030cb74c7fb91e40"
+  },
+  {
+    "_id": "626f91ce030cb74c7fb91e53",
+    "name": "Needlework",
+    "parentId": "626f8ba2030cb74c7fb91e40"
+  },
+  {
+    "_id": "626f91d6030cb74c7fb91e54",
+    "name": "Printmaking",
+    "parentId": "626f8ba2030cb74c7fb91e40"
+  },
+  {
+    "_id": "626f9235030cb74c7fb91e55",
+    "name": "Baby Care",
+    "parentId": "626f8bf3030cb74c7fb91e41"
+  },
+  {
+    "_id": "626f9240030cb74c7fb91e56",
+    "name": "Pregnancy & Maternity",
+    "parentId": "626f8bf3030cb74c7fb91e41"
+  },
+  {
+    "_id": "626f9246030cb74c7fb91e57",
+    "name": "Safety",
+    "parentId": "626f8bf3030cb74c7fb91e41"
+  },
+  {
+    "_id": "626f928e030cb74c7fb91e58",
+    "name": "Makeup",
+    "parentId": "626f8bfc030cb74c7fb91e42"
+  },
+  {
+    "_id": "626f92a2030cb74c7fb91e59",
+    "name": "Skin Care",
+    "parentId": "626f8bfc030cb74c7fb91e42"
+  },
+  {
+    "_id": "626f92aa030cb74c7fb91e5a",
+    "name": "Hair Care",
+    "parentId": "626f8bfc030cb74c7fb91e42"
+  },
+  {
+    "_id": "626f94a2030cb74c7fb91e5b",
+    "name": "R&B",
+    "parentId": "626f8c04030cb74c7fb91e43"
+  },
+  {
+    "_id": "626f94ac030cb74c7fb91e5c",
+    "name": "Classical Music",
+    "parentId": "626f8c04030cb74c7fb91e43"
+  },
+  {
+    "_id": "626f94b3030cb74c7fb91e5d",
+    "name": "Broadway & Vocalists",
+    "parentId": "626f8c04030cb74c7fb91e43"
+  },
+  {
+    "_id": "626f94b9030cb74c7fb91e5e",
+    "name": "Cell Phones & Accessories",
+    "parentId": "626f8c35030cb74c7fb91e44"
+  },
+  {
+    "_id": "626f94c3030cb74c7fb91e5f",
+    "name": "Headphones",
+    "parentId": "626f8c35030cb74c7fb91e44"
+  },
+  {
+    "_id": "626f94ca030cb74c7fb91e60",
+    "name": "Television & Video",
+    "parentId": "626f8c35030cb74c7fb91e44"
+  },
+  {
+    "_id": "626f94dd030cb74c7fb91e61",
+    "name": "Oral Care",
+    "parentId": "626f8c3d030cb74c7fb91e45"
+  },
+  {
+    "_id": "626f94e8030cb74c7fb91e62",
+    "name": "Diet & Sports Nutrition",
+    "parentId": "626f8c3d030cb74c7fb91e45"
+  },
+  {
+    "_id": "626f94f2030cb74c7fb91e63",
+    "name": "Vitamins, Minerals & Supplements",
+    "parentId": "626f8c3d030cb74c7fb91e45"
+  },
+  {
+    "_id": "626f956b030cb74c7fb91e64",
+    "name": "Hunting & Fishing",
+    "parentId": "626f8c45030cb74c7fb91e46"
+  },
+  {
+    "_id": "626f9571030cb74c7fb91e65",
+    "name": "Outdoor Recreation",
+    "parentId": "626f8c45030cb74c7fb91e46"
+  },
+  {
+    "_id": "626f9577030cb74c7fb91e66",
+    "name": "Fan Shop",
+    "parentId": "626f8c45030cb74c7fb91e46"
+  },
+  {
+    "_id": "626f95c1030cb74c7fb91e67",
+    "name": "Dolls & Accessories",
+    "parentId": "626f8c7e030cb74c7fb91e47"
+  },
+  {
+    "_id": "626f95ce030cb74c7fb91e68",
+    "name": "Puzzles",
+    "parentId": "626f8c7e030cb74c7fb91e47"
+  },
+  {
+    "_id": "626f95d5030cb74c7fb91e69",
+    "name": "Vehicles",
+    "parentId": "626f8c7e030cb74c7fb91e47"
+  },
+  {
+    "_id": "626f9620030cb74c7fb91e6a",
+    "name": "Online Game Services",
+    "parentId": "626f8c85030cb74c7fb91e48"
+  },
+  {
+    "_id": "626f9626030cb74c7fb91e6b",
+    "name": "Microconsoles",
+    "parentId": "626f8c85030cb74c7fb91e48"
+  },
+  {
+    "_id": "626f962c030cb74c7fb91e6c",
+    "name": "Virtual Reality",
+    "parentId": "626f8c85030cb74c7fb91e48"
+  },
+  {
+    "_id": "626f9660030cb74c7fb91e6d",
+    "name": "Digital Signage",
+    "parentId": "626f8c8c030cb74c7fb91e49"
+  },
+  {
+    "_id": "626f9667030cb74c7fb91e6e",
+    "name": "Power Transmission Products",
+    "parentId": "626f8c8c030cb74c7fb91e49"
+  },
+  {
+    "_id": "626f967d030cb74c7fb91e6f",
+    "name": "Robotics",
+    "parentId": "626f8c8c030cb74c7fb91e49"
+  },
+  {
+    "_id": "626f96fc030cb74c7fb91e70",
+    "name": "Cell Phones",
+    "parentId": "626f94b9030cb74c7fb91e5e"
+  },
+  {
+    "_id": "626f9703030cb74c7fb91e71",
+    "name": "Accessories",
+    "parentId": "626f94b9030cb74c7fb91e5e"
+  },
+  {
+    "_id": "626fc1ede24e4b8985d0560d",
+    "name": "Cases, Holsters & Clips",
+    "parentId": "626f94b9030cb74c7fb91e5e"
+  }
+]

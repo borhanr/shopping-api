@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "626f9a80030cb74c7fb91e79",
+    "name": "Apple iPhone 13 Pro Max, 128GB, Sierra Blue - Unlocked (Renewed)",
+    "categoryId": "626f96fc030cb74c7fb91e70",
+    "price": "1,450.00"
+  },
+  {
+    "_id": "626f9a8e030cb74c7fb91e7a",
+    "name": "Google Pixel 6 – 5G Android Phone - Unlocked Smartphone with Wide and Ultrawide Lens - 128GB - Stormy Black",
+    "categoryId": "626f96fc030cb74c7fb91e70",
+    "price": "1,134.00"
+  },
+  {
+    "_id": "626f9a97030cb74c7fb91e7b",
+    "name": "Samsung Galaxy Note 20 Ultra 5G, 128GB, Mystic Black - Fully Unlocked (Renewed Premium)",
+    "categoryId": "626f96fc030cb74c7fb91e70",
+    "price": "850.00"
+  },
+  {
+    "_id": "626f9aab030cb74c7fb91e7c",
+    "name": "OnePlus 10 Pro 5G | Volcanic Black | 8GB+128GB | U.S. Unlocked,NE2115",
+    "categoryId": "626f96fc030cb74c7fb91e70",
+    "price": "875.15"
+  },
+  {
+    "_id": "626f9ab7030cb74c7fb91e7d",
+    "name": "Ailun Glass Screen Protector Compatible for iPhone 11/iPhone XR, 6.1 Inch 3 Pack Tempered Glass",
+    "categoryId": "626f9703030cb74c7fb91e71",
+    "price": "8.98"
+  },
+  {
+    "_id": "626f9abf030cb74c7fb91e7e",
+    "name": "Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black",
+    "categoryId": "626f9703030cb74c7fb91e71",
+    "price": "248.00"
+  },
+  {
+    "_id": "626f9ac5030cb74c7fb91e7f",
+    "name": "PopSockets Black Phone Grip",
+    "categoryId": "626f9703030cb74c7fb91e71",
+    "price": "9.97"
+  },
+  {
+    "_id": "626f9acc030cb74c7fb91e80",
+    "name": "Mkeke Compatible with iPhone 13 Case Clear, Transparent Shockproof Protective Bumpers Phone Cases for iPhone 13 Released 2021",
+    "categoryId": "626f9703030cb74c7fb91e71",
+    "price": "13.99"
+  },
+  {
+    "_id": "626f9ad3030cb74c7fb91e81",
+    "name": "OTTERBOX COMMUTER SERIES Case for iPhone 11 - BLACK",
+    "categoryId": "626f9703030cb74c7fb91e71",
+    "price": "28.77"
+  },
+  {
+    "_id": "626f9ad9030cb74c7fb91e82",
+    "name": "iMangoo Shockproof Carrying Case Hard Protective EVA Case Impact Resistant Travel 12000mAh Bank Pouch Bag USB Cable Organizer Earbuds Pocket Accessory Smooth Coating Zipper Wallet Rose Gold",
+    "categoryId": "626f9703030cb74c7fb91e71",
+    "price": "9.99"
+  }
+]
